@@ -1,6 +1,3 @@
-# PYTHON-TURTLE
-IRON MAN HELMET BY USING PYTHON TURTLE
-
 import turtle
 
 ankur1 = [[(-40, 120), (-70, 260), (-130, 230), (-170, 200), (-170, 100), (-160, 40), (-170, 10), (-150, -10), (-140, 10),
